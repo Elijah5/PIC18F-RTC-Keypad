@@ -1,5 +1,5 @@
 /* 
- * File:   rtcKeypad.c
+ * File:   main.c
  * Author: Elijah Burtner
  *
  * Created on March 19, 2026
